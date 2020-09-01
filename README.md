@@ -1,5 +1,5 @@
 ![Header](https://github.com/sarjus/sarjus/blob/master/readme.png "Header")
-### Hi there 👋
+### Hello, folks! 👋
 
 <!--
 **sarjus/sarjus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
