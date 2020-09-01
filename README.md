@@ -1,6 +1,6 @@
 ![Header](https://github.com/sarjus/sarjus/blob/master/readme.png "Header")
 ### Hello, folks! 👋
-My name is Sarju S and I am a professor in Computer Science and Engineering. I am from India living in Kerala. Currently I am working at St. Joseph's College of Engineering and Technology, Palai, Kerala, India. You can find me on <a href="https://www.linkedin.com/in/sarju-s/"><img height="30" src="https://github.com/sarjus/sarjus/blob/master/linkedin.png?raw=true"></a>
+My name is Sarju S and I am a professor in Computer Science and Engineering. I am from India living in Kerala. Currently I am working at St. Joseph's College of Engineering and Technology, Palai, Kerala, India. You can find me on <a href="https://www.linkedin.com/in/sarju-s/"><img height="10" src="https://github.com/sarjus/sarjus/blob/master/linkedin.png?raw=true"></a>
 <!--
 **sarjus/sarjus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
