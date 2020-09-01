@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/sarjus/<OWNER>/<OWNER>/readme.png "Header")]
+[![Header](https://github.com/sarjus/sarjus/blob/master/readme.png "Header")]
 ### Hi there 👋
 
 <!--
